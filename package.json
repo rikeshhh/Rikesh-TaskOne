@@ -7,5 +7,8 @@
     "compile": "sass --watch --no-source-map scss/style.scss scss/main.css"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.55.0"
+  }
 }
