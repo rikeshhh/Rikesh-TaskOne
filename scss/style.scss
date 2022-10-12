@@ -37,6 +37,13 @@
                 justify-content: center;
                 align-items: center;
                 border: 1px solid #2159AB;
+                ul{
+                    text-decoration: none;
+                    list-style-type: none;
+                    li{
+                    padding: 10px;
+                    }
+                }
             }
 
             #image {
